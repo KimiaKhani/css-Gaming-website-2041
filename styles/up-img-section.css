@@ -63,6 +63,13 @@
     margin-left: 70px;
 }
 
+#fire-icon{
+    width: 25px;
+    height: 25px;
+    margin-right: -40px;
+    margin-top: -3px;
+}
+
 
 .inside-follow:hover #fire-icon{
         transform: scale(1.5);
